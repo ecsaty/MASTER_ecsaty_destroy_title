@@ -5,6 +5,6 @@ tags={
 	"Character Interactions"
 }
 name="Ecsaty's Destroy Titles"
-supported_version="1.4.0"
+supported_version="1.5.0.1"
 path="C:/Users/Elmar/Documents/Paradox Interactive/Crusader Kings III/mod/ecsaty_destroy_title"
 remote_file_id="2466630398"

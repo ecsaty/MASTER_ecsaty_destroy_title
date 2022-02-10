@@ -5,5 +5,5 @@ tags={
 	"Character Interactions"
 }
 name="Ecsaty's Destroy Titles"
-supported_version="1.4.0"
+supported_version="1.5.0.1"
 remote_file_id="2466630398"
